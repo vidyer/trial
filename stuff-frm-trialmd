@@ -5,3 +5,12 @@
 ##### This is the next level sub-header.
 ###### This is the next level sub-header.
 ####### This is not working as a header.
+
+AQI in Mumbai suburbs on Days 1 and 2 after Diwali
+| Suburb | Day 1 | Day 2 |  
+|--- | :---: | ---: |   
+| Andheri | 452 | 343 |  
+| Bhandup | 73 | 120 |   
+| BKC | 252 | 155 |
+
+  > This is a blockquote.
